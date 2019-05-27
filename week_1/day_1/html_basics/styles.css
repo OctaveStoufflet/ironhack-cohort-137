@@ -1,0 +1,23 @@
+.tableau {
+  border: solid;
+}
+
+.bordure {
+ border: solid;
+ border-color: gray;
+}
+
+.table {
+  border: solid;
+}
+
+.ligne {
+  border: solid;
+}
+.table2 td {
+  border: solid;
+}
+
+.table2 {
+  border-collapse: collapse;
+}
